@@ -1,0 +1,26 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'SNES';
+    src: url(fontes/SNES\ Italic.ttf);
+}
+
+
+h1{
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 7px;
+    max-width: 360px;
+    min-width: 360px;
+
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'SNES';
+    font-weight: lighter;
+    font-size: 50px;
+
+    color: rgb(24, 98, 196);
+}
+
+hr{
+    border: 1px solid black;
+}
